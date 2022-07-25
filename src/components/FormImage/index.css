@@ -1,0 +1,9 @@
+.form__image {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    overflow: hidden;
+    border-top-left-radius: 32px;
+    border-bottom-left-radius: 32px;
+}
+
