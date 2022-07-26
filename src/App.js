@@ -4,10 +4,12 @@ import FormImage from "./components/FormImage";
 
 function App() {
   return (
-    <div className="App">
-      <Form/>
-        <FormImage/>
-    </div>
+      <div className="app-container">
+          <div className="app">
+              <Form/>
+              <FormImage/>
+          </div>
+      </div>
   );
 }
 
